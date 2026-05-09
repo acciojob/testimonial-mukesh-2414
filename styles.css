@@ -5,7 +5,7 @@
     margin: 0 auto;
 }
 
-.testimonial {
+.testimonials {
     background-color: white;
     border: 1px solid #ddd;
     padding: 15px;
@@ -13,7 +13,7 @@
     border-radius: 5px;
 }
 
-.testimonial p {
+.testimonials p {
     margin: 0 0 10px 0;
     font-size: 16px;
     color: #333;
